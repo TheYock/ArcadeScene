@@ -10,13 +10,14 @@
 This project helped me refine my 3D scene structuring skills by considering object positioning, scene hierarchy, and lighting interactions. Additionally, I developed a stronger understanding of shader programming in OpenGL, which enhances realism in computational graphics. Learning how to balance performance and aesthetics was another key takeaway, as real-time rendering efficiency is critical in computer graphics applications.
 
 # What design process did you follow for your project work?
-- Conceptualization – Outlined the scene elements and lighting setup.
-- Prototyping – Created basic geometric objects and tested transformations.
-- Implementation – Applied shaders, textures, and refined the scene’s visual quality.
-- Optimization – Tweaked lighting and shader parameters for better rendering performance.
-- Testing & Iteration – Adjusted object placements, camera angles, and interactions to enhance realism.
-- How could tactics from your design approach be applied in future work?
-- The structured and iterative approach I followed can be applied to future projects in graphics programming, game development, or software engineering. Breaking a problem into manageable components and continuously refining them ensures a high-quality outcome. Moreover, focusing on performance optimizations and scalability will be beneficial for any real-time system development.
+- Conceptualization: Outlined the scene elements and lighting setup.
+- Prototyping: Created basic geometric objects and tested transformations.
+- Implementation: Applied shaders, textures, and refined the scene’s visual quality.
+- Optimization: Tweaked lighting and shader parameters for better rendering performance.
+- Testing & Iteration: Adjusted object placements, camera angles, and interactions to enhance realism.
+  
+# How could tactics from your design approach be applied in future work?
+The structured and iterative approach I followed can be applied to future projects in graphics programming, game development, or software engineering. Breaking a problem into manageable components and continuously refining them ensures a high-quality outcome. Moreover, focusing on performance optimizations and scalability will be beneficial for any real-time system development.
 
 # How do I approach developing programs?
 I follow a modular development approach where I build individual components separately and then integrate them into the final system. For the 3D scene, I developed vertex and fragment shaders, lighting models, and texture mapping as separate modules before assembling them into a coherent scene.
